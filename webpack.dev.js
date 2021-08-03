@@ -13,6 +13,7 @@ module.exports = {
         library: 'Client'
     },
     module: {
+
         rules: [
             {
                 test: '/\.js$/',

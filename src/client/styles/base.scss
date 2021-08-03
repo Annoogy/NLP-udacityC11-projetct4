@@ -6,10 +6,20 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-}
+    font-weight: 100;
+    justify-content: center;
 
+}
+h1{
+    font-size:50px;
+    font-weight: bolder;
+    
+}
 main {
     flex: 2;
+    font-size:medium;
+    font-weight: bold;
+    padding-left: 25px;
 }
 
 section {
